@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\PRANA\\Downloads\\jar_files (1)\\junit-platform-console-standalone-1.10.1.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
