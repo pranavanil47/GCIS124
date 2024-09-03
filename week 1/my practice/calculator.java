@@ -23,8 +23,10 @@ public class calculator {
         
     }
     public static  double divide(int a, int b){
-        float x =  (float) a/b;
-        return x;
+        double h = a;
+        double k = b;
+
+        return(h/k);
         
     }
 }
