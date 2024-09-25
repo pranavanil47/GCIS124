@@ -10,8 +10,8 @@ public class test {
 
 
         }
-        Scanner.close()
-        
+
+
     }
 
     

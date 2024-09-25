@@ -19,7 +19,7 @@ public class filesT {
             System.out.println("Enter name and date of birth");
             nameDob = userInp.nextLine();
             String[] sliced = nameDob.split(" ");
-            nameArrays[0]
+            nameArrays[0];
             
 
         }
